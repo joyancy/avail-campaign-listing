@@ -1,0 +1,8 @@
+{
+  "name": "jiakechong",
+  "logo": "https://placehold.co/600x400",
+  "rpc_url": "http://108.160.142.160:9944",
+  "explorer_url": "http://108.160.142.160:4000",
+  "metrics_endpoint": "http://108.160.142.160:9615/metrics",
+  "id": "bc25726a-b6e6-4d00-825f-b9c8bf6d4ad9"
+}
